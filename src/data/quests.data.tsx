@@ -308,7 +308,7 @@ const quests: Quest[] = [
       learnings: ['Investment Strategy', 'Financial Analysis', 'Risk Management']
     }
   ]
-}
+},
 {
   id: 109,
   titles: {
@@ -338,6 +338,9 @@ const quests: Quest[] = [
       description: 'Trained in Planning, Programming, Budgeting, and Execution (PPBE) and audit readiness fundamentals.',
       role: 'Trainee',
       learnings: ['PPBE', 'Audit Readiness', 'Fiscal Law']
+    }
+  ]
+}
 ];
 
 export default quests;

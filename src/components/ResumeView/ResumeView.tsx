@@ -53,11 +53,11 @@ const ResumeView: React.FC = () => {
     <div className={`resume-container ${theme}`}>
 <div className="resume-header">
   <div className="header-content">
-    <h1>Alonzo Williams</h1>
+    <h1>Roderick Daniels</h1>
     <div className="contact-info">
-      awilliams9293@gmail.com<br/>
-      https://www.linkedin.com/in/alonzo-williams-1160a7b0/<br/>
-      Chicago, IL<br/>
+      rddaniels89@gmail.com<br/>
+      https://www.linkedin.com/in/roderick-daniels/<br/>
+      Schertz, TX<br/>
     </div>
   </div>
   <button className="download-button" onClick={handleDownloadPDF}>
@@ -70,42 +70,43 @@ const ResumeView: React.FC = () => {
         <section className="resume-section">
   <h2>Professional Summary</h2>
   <p className="summary-text">
-  Strategic technology leader with over a decade of experience in software architecture and development. Demonstrated expertise in transforming legacy systems, leading cross-functional teams, and implementing scalable architectures across multiple industries. Consistently delivers solutions through thoughtful architectural decisions and effective team leadership.
+  Results-oriented financial leader with 16+ years of progressive experience in federal budget execution, resource optimization, and financial systems integration across both civilian and military sectors. Demonstrated success in streamlining multi-million-dollar budget operations, enhancing execution efficiency, and delivering measurable cost savings at the Defense Health Agency and in U.S. Navy operations. Adept at interpreting complex financial data, advising senior leadership, and aligning resources with enterprise-level priorities. Certified Defense Financial Manager (CDFM) and MBA holder with deep expertise in PPBE, GFEBS, FMIS, Ektropy, Tableau, and federal compliance frameworks. Proven ability to lead cross-functional teams and deliver mission-critical outcomes in dynamic, high-stakes environments.
   </p>
 </section>
 <section className="resume-section">
   <h2>Core Competencies</h2>
   <div className="competencies-grid">
-    <div className="competency-item">
-      <h3>Software Architecture</h3>
-      <p>Expert in designing scalable, maintainable architecture patterns that align with business objectives while ensuring technical excellence.</p>
-    </div>
-    
-    <div className="competency-item">
-      <h3>Technology Leadership</h3>
-      <p>Skilled at guiding cross-functional development teams through complete project lifecycles while maintaining focus on quality and delivery timelines.</p>
-    </div>
-    
-    <div className="competency-item">
-      <h3>Enterprise Integration</h3>
-      <p>Extensive experience implementing integration solutions across disparate systems, leveraging service-oriented approaches and API design best practices.</p>
-    </div>
-    
-    <div className="competency-item">
-      <h3>Cloud Infrastructure</h3>
-      <p>Proficient with Azure cloud services implementation, focusing on scalable architectures that optimize for both performance and cost.</p>
-    </div>
-    
-    <div className="competency-item">
-      <h3>Development Practices</h3>
-      <p>Strong advocate for engineering excellence through SOLID principles, comprehensive testing strategies, and continuous integration practices.</p>
-    </div>
-    
-    <div className="competency-item">
-      <h3>AI/Technology Modernization</h3>
-      <p>Demonstrated success in leading legacy system transformations. Active AI enthusiast integrating AI into workflows.</p>
-    </div>
+  <div className="competency-item">
+    <h3>Federal Budget Execution</h3>
+    <p>Extensive experience managing multi-million-dollar federal budgets, ensuring compliance with fiscal policies and maximizing resource efficiency.</p>
   </div>
+
+  <div className="competency-item">
+    <h3>Financial Systems Integration</h3>
+    <p>Expert in using GFEBS, Ektropy, Power BI, and Tableau for real-time financial tracking, analytics, and reporting across military and healthcare systems.</p>
+  </div>
+
+  <div className="competency-item">
+    <h3>Strategic Resource Planning</h3>
+    <p>Skilled in aligning financial resources with enterprise goals through PPBE processes, cost analysis, and long-range budget planning.</p>
+  </div>
+
+  <div className="competency-item">
+    <h3>Leadership & Collaboration</h3>
+    <p>Proven ability to lead cross-functional teams and advise senior leadership on financial strategies, execution, and compliance.</p>
+  </div>
+
+  <div className="competency-item">
+    <h3>Defense Health Agency Expertise</h3>
+    <p>Deep understanding of DHA budget processes, policy development, and system transformation to optimize healthcare funding.</p>
+  </div>
+
+  <div className="competency-item">
+    <h3>Veteran & Mission-Driven Focus</h3>
+    <p>Brings disciplined, results-focused leadership from military service with a commitment to excellence in government financial operations.</p>
+  </div>
+</div>
+
 </section>
         {/* Professional Experience */}
         <section className="resume-section">
