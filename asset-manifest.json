@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/finance-fellow.github.io/static/css/main.f9d7f0ea.css",
-    "main.js": "/finance-fellow.github.io/static/js/main.882f7a5b.js",
+    "main.js": "/finance-fellow.github.io/static/js/main.f8582cba.js",
     "static/js/977.a9eb2898.chunk.js": "/finance-fellow.github.io/static/js/977.a9eb2898.chunk.js",
     "static/js/732.cc456c8a.chunk.js": "/finance-fellow.github.io/static/js/732.cc456c8a.chunk.js",
     "static/js/453.4114e58a.chunk.js": "/finance-fellow.github.io/static/js/453.4114e58a.chunk.js",
     "static/media/tvScreen.png": "/finance-fellow.github.io/static/media/tvScreen.b9a74ec797e6c8b2df28.png",
     "index.html": "/finance-fellow.github.io/index.html",
     "main.f9d7f0ea.css.map": "/finance-fellow.github.io/static/css/main.f9d7f0ea.css.map",
-    "main.882f7a5b.js.map": "/finance-fellow.github.io/static/js/main.882f7a5b.js.map",
+    "main.f8582cba.js.map": "/finance-fellow.github.io/static/js/main.f8582cba.js.map",
     "732.cc456c8a.chunk.js.map": "/finance-fellow.github.io/static/js/732.cc456c8a.chunk.js.map",
     "453.4114e58a.chunk.js.map": "/finance-fellow.github.io/static/js/453.4114e58a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9d7f0ea.css",
-    "static/js/main.882f7a5b.js"
+    "static/js/main.f8582cba.js"
   ]
 }
