@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/finance-fellow.github.io/static/css/main.4db75756.css",
-    "main.js": "/finance-fellow.github.io/static/js/main.dc37cf8b.js",
+    "main.css": "/finance-fellow.github.io/static/css/main.7ced51bd.css",
+    "main.js": "/finance-fellow.github.io/static/js/main.a2bf756b.js",
     "index.html": "/finance-fellow.github.io/index.html",
-    "main.4db75756.css.map": "/finance-fellow.github.io/static/css/main.4db75756.css.map",
-    "main.dc37cf8b.js.map": "/finance-fellow.github.io/static/js/main.dc37cf8b.js.map"
+    "main.7ced51bd.css.map": "/finance-fellow.github.io/static/css/main.7ced51bd.css.map",
+    "main.a2bf756b.js.map": "/finance-fellow.github.io/static/js/main.a2bf756b.js.map"
   },
   "entrypoints": [
-    "static/css/main.4db75756.css",
-    "static/js/main.dc37cf8b.js"
+    "static/css/main.7ced51bd.css",
+    "static/js/main.a2bf756b.js"
   ]
 }
